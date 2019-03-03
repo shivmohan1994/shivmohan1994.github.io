@@ -1,0 +1,24 @@
+{
+  "name": "Shiv Mohan",
+  "short_name": "Shiv's CV",
+  "lang": "en-US",
+  "start_url": "/shivmohan/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "orientation": "portrait-primary",
+  "theme_color": "#000000",
+  "icons": [
+    {
+    "src": "splash.jpg",
+    "sizes": "512x512",
+    "type": "image\/png",
+    "density": "0.75"
+    },
+    {
+    "src": "assets/images/favicon.ico",
+    "sizes": "16x16",
+    "type": "image\/png",
+    "density": "0.75"
+    }
+ ]
+}
